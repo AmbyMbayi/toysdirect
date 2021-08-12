@@ -226,7 +226,7 @@ font-family: "Simpsonfont", sans-serif;
   justify-content: center;
   align-items: center;
   padding: 0.3rem;
-  background: rgba(6, 156, 84, 0.5);
+  background: #c51e2c;
   border-radius: 0.4rem;
   z-index: var(--z-tooltip);
   transition: 0.4s;
