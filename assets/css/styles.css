@@ -269,6 +269,7 @@ font-family: "Simpsonfont", sans-serif;
 .home__img {
   width: 300px;
   justify-self: center;
+ 
 }
 
 /*button*/
@@ -547,7 +548,8 @@ font-family: "Simpsonfont", sans-serif;
     margin-right: auto;
   }
   .home__img {
-    width: 400px;
+    width: 700px;
+    
   }
   .about__container,
   .app__container {
